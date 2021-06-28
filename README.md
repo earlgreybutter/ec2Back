@@ -1,3 +1,3 @@
 # ec2Back
 
-npm run dev
+npm run dev 로 실행
